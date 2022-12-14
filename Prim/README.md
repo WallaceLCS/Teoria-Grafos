@@ -37,7 +37,7 @@
 3 5 1
 ```
 
-##Saída:
+## Saída:
 
  Saída retorna a árvore de abrangência mínima do grafo 
 
