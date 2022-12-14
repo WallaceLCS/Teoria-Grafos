@@ -46,24 +46,25 @@
 
 ```
 exemplo 1:
-Vértices  - Distâncias
-   0    -        0
-   1    -        4
-   2    -        12
-   3    -        19
-   4    -        18
-   5    -        16
-   6    -        17
-   7    -        8
+Vertice  - Distancia da fonte
+   0    -        4
+   1    -        0
+   2    -        8
+   3    -        15
+   4    -        14
+   5    -        12
+   6    -        20
+   7    -        11
    8    -        14
 
 exemplo 2:
-Vértices   - Distâncias
+Vertice  - Distancia da fonte
+   0    -        3
    1    -        0
-   2    -        3
-   3    -        4
-   4    -        2
-   5    -        10
+   2    -        7
+   3    -        1
+   4    -        7
+   5    -        2
 
 ```
 ## Executar
