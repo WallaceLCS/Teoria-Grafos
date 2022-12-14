@@ -1,11 +1,11 @@
 # Algoritmo de Prim
 
-- Na linha inicial termos *V* e *E. Sendo *V* o número de vértices e *E* o número de arestas do grafo;
+- Na linha inicial termos *V* e *E*. Sendo *V* o número de vértices e *E* o número de arestas do grafo;
 - Nas N linhas seguintes, teremos **v1**, **v2** e **ps**;
 - **v1** e **v2** são os vertices conectados pela aresta e **ps** é o peso da aresta;
-- Para o funcionamento correto do algoritmo, a entrada deve ser compostra por vértices com valores de 0 a *V* - 1;
+- Para o funcionamento correto do algoritmo, a entrada deve ser composta por vértices com valores de 0 a *V* - 1;
 
-- Dois exemplos abaixa…
+- Dois exemplos abaixo…
 
 - O primeiro um grafo de 9 vértices e 12 arestas, vai estar no arquivo `input02.in`:
 ```
