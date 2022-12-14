@@ -7,7 +7,7 @@
 
 - Dois exemplos abaixa…
 
-- O primeiro um grafo de 9 vértices e 12 arestas, vai estar no arquivo `input.int`:
+- O primeiro um grafo de 9 vértices e 12 arestas, vai estar no arquivo `input02.in`:
 ```
 9 12
 0 1 4
@@ -23,7 +23,7 @@
 6 7 9
 7 8 6
 ```
-- O segundo um grafo de 6 vértices e 8 arestas, vai estar no arquivo `input.input`:
+- O segundo um grafo de 6 vértices e 8 arestas, vai estar no arquivo `input.in`:
 
 ```
 6 8

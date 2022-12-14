@@ -10,7 +10,7 @@
 
 - Dois exemplos abaixo...
 
-- O primeiro um grafo de 6 vértices e 10 arestas, vai estar no arquivo `input.in`:
+- O primeiro um grafo de 6 vértices e 10 arestas, vai estar no arquivo `input02.in`:
 ```
 
 6 10
@@ -31,14 +31,15 @@
 ```
 
 6 8
-1 2 1
+0 1 5
+0 2 4
+0 3 2
+0 5 6
 1 3 1
-1 4 1
-1 6 1
-2 4 1
-2 5 1
+1 4 7
+2 4 6
 3 5 1
-4 6 1
+
 ```
 
 ## Saída:
