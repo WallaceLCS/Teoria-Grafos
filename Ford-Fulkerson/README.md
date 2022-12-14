@@ -31,14 +31,15 @@
 ```
 
 6 8
-1 2 1
+0 5
+0 1 5
+0 2 4
+0 3 2
+0 5 6
 1 3 1
-1 4 1
-1 6 1
-2 4 1
-2 5 1
+1 4 7
+2 4 6
 3 5 1
-4 6 1
 
 
 ```
@@ -54,7 +55,7 @@ Fluxo máximo = 12
 - exemplo 2:
 
 ```
-Fluxo máximo = 5
+Fluxo máximo = 7
 ```
 
 #Complexidade `O(ElogV)`;
