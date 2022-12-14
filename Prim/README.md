@@ -71,6 +71,9 @@ Arvore Geradora Minima construida:
 - A execução pode ser feita tanto de forma interativa pelo terminal, como por um arquivo de texto:
 
 ```
+exemplo 01:
+./prim < input02.in
+exemplo 02:
 ./prim < input.in
 ```
 
