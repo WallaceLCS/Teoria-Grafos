@@ -1,4 +1,4 @@
-#Algoritmo de Kruskal 
+# Algoritmo de Kruskal 
 
 ## Entrada
 - Na linha inicial termos *V* e *E*. Sendo *V* o número de vértices e *E* o número de arestas do grafo;
