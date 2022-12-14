@@ -1,0 +1,3 @@
+/mnt/c/Users/wxdan/Documents/projeto/Dijkstra/build/CMakeFiles/dijkstra.dir
+/mnt/c/Users/wxdan/Documents/projeto/Dijkstra/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/wxdan/Documents/projeto/Dijkstra/build/CMakeFiles/rebuild_cache.dir
