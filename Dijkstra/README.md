@@ -72,7 +72,11 @@ Vertice  - Distancia da fonte
 - A execução pode ser feita tanto de forma interativa pelo terminal, como por um arquivo de texto:
 
 ```
+exemplo 1:
+./dijkstra < input02.in
+exemplo 2:
 ./dijkstra < input.in
+
 ```
 
 ## Complexidade `O(ElogV)`:
